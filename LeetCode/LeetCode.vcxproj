@@ -121,7 +121,9 @@
     <None Include="75.Sort Color.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="167.Two Sum II.cpp" />
     <ClCompile Include="2.Add Two Numbers.cpp" />
+    <ClCompile Include="209. Minimum Size Subarray Sum.cpp" />
     <ClCompile Include="28.Implement strStr().cpp" />
     <ClCompile Include="43.Multiply Strings.cpp" />
     <ClCompile Include="88.Merge Sorted Array.cpp" />

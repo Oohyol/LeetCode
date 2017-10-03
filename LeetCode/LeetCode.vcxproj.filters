@@ -32,5 +32,11 @@
     <ClCompile Include="88.Merge Sorted Array.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="167.Two Sum II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="209. Minimum Size Subarray Sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -19,4 +19,18 @@
       <Filter>源文件</Filter>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="28.Implement strStr().cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2.Add Two Numbers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="43.Multiply Strings.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="88.Merge Sorted Array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

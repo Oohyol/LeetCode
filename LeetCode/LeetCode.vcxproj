@@ -126,7 +126,9 @@
     <ClCompile Include="206.Reverse Linked List.cpp" />
     <ClCompile Include="209. Minimum Size Subarray Sum.cpp" />
     <ClCompile Include="28.Implement strStr().cpp" />
+    <ClCompile Include="328. Odd Even Linked List.cpp" />
     <ClCompile Include="43.Multiply Strings.cpp" />
+    <ClCompile Include="83. Remove Duplicates from Sorted List.cpp" />
     <ClCompile Include="86. Partition List.cpp" />
     <ClCompile Include="88.Merge Sorted Array.cpp" />
     <ClCompile Include="92. Reverse Linked List II.cpp" />

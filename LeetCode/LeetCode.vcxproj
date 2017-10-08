@@ -121,10 +121,13 @@
     <None Include="75.Sort Color.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="147.Insertion Sort List.cpp" />
     <ClCompile Include="167.Two Sum II.cpp" />
+    <ClCompile Include="19.Remove Nth Node From End of List.cpp" />
     <ClCompile Include="2.Add Two Numbers.cpp" />
     <ClCompile Include="206.Reverse Linked List.cpp" />
     <ClCompile Include="209. Minimum Size Subarray Sum.cpp" />
+    <ClCompile Include="24.Swap Nodes in Paris.cpp" />
     <ClCompile Include="28.Implement strStr().cpp" />
     <ClCompile Include="328. Odd Even Linked List.cpp" />
     <ClCompile Include="43.Multiply Strings.cpp" />

@@ -56,5 +56,14 @@
     <ClCompile Include="445. Add Two Numbers II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="24.Swap Nodes in Paris.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19.Remove Nth Node From End of List.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="147.Insertion Sort List.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

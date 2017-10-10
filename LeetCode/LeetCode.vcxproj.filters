@@ -65,5 +65,14 @@
     <ClCompile Include="147.Insertion Sort List.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="100. Same Tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="104. Maximum Depth of Binary Tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="226. Invert Binary Tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
